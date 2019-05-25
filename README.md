@@ -12,5 +12,6 @@ Cosas que yo aprendí:
 - Como hacer un necesario merge.
 - La función tan importante de git en un equipo de trabajo.
 - Y pues esto es lo más considerable para mi.
+- Creador por la liga de platzi
 
 Gracias a Platzi por este curso y por todos los demás que vienen.
